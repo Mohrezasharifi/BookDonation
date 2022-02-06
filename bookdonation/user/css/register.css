@@ -1,0 +1,49 @@
+   body{
+
+      background-image:url(bglog.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      ;
+
+
+    }
+    #container{
+      max-width:400px;
+      max-height: 620px;
+      padding-bottom: 10px;
+      margin: 70px auto;
+
+    }
+
+    #header
+    {
+      position: relative;
+      top: -80px;
+      background-color: #047069;
+    }
+.invalid + small
+{
+   color: red;
+}
+.valid + small
+{
+   color: green;
+}
+.valid
+{
+   border: 1.5px solid green;
+}
+.invalid
+{
+   border: 1.5px solid red;
+}
+.matched
+{
+   color: green;
+   display: none;
+}
+.inmatched
+{
+   display: none;
+   color: red;
+}

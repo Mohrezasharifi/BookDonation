@@ -1,0 +1,58 @@
+/*
+  body{
+      background-image:url(bglog.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      overflow: hidden;
+
+
+    }
+*/
+    #container{
+      max-width:400px;
+      max-height: 480px;
+    }
+
+/*
+    #header
+    {
+      position: relative;
+      top: -100px;
+      background-color: #047069;
+
+    }
+*/
+    fa-bold:hover{
+      text-decoration: none;
+    }
+.valid
+{
+    border: 1.3px solid red;
+    outline: 0px;
+}
+.invalid
+{
+    border: 1.3px solid green;
+    outline: 0px;
+}
+.invalidEmail
+{
+    color: orange;
+    display: block;
+}
+.validEmail
+{
+    display: none;
+}
+.invalidPwd
+{
+    color: orange;
+    display: block;
+}
+.validPwd
+{
+    display: none;
+}
+
+
+

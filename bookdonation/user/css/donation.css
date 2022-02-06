@@ -1,0 +1,45 @@
+.navbar{
+      height: 80px;
+      
+      background-color: #047069;
+      text-align: center;
+      font-size: 30px;
+      color: white;
+       font-weight: bold;
+      
+     
+      
+    }
+    .mark{
+      margin: 0 auto;
+      text-decoration: none;
+      color: black;
+      
+    }
+    .mark:hover{
+  text-decoration: none;
+  
+    }
+    
+    .donate-info{
+      text-align: center;
+    }
+    
+    .container{
+      border:none;
+      
+      margin: 100px auto 40px auto;
+      max-width: 800px;
+    }
+    .donate-info{
+      max-width: 400px;
+      margin:20px 40px;
+    }
+    form{
+      margin: 40px;
+    }
+     button{
+  background-color: #047069;
+    }
+    
+  

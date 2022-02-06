@@ -1,0 +1,115 @@
+
+           
+            .nav-link:hover{
+                color: white;
+                text-decoration: none;
+                border-bottom: 2px solid white;
+              
+               }
+              .d-link:hover{
+                text-decoration: none;
+                color: white;
+
+              }
+            
+            .jumbotron{
+                color:white;;
+                margin:30px auto 0px auto;
+                text-align: center;
+                background-image:url(asl.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+               }
+ 
+            .flow{
+                  max-width: 500px;
+                  margin: 40px au;
+                 }
+          
+             p+a{
+                  margin: 20px ;
+               }
+
+             .btn{
+                  background-color:#047069;
+                  width: 200px;
+                  color: white;
+                 }
+           .btn:hover{
+                  color: white;
+                 }
+           .lead{
+                  margin-top: 20px;
+                }
+            span{
+                  font-size: 20px;
+                }
+           .icon-size{
+                  font-size: 30px;
+                  color:white;
+                }
+
+           .para{
+             margin: 50px auto;
+             font-size: 30px;
+             color: #182d2f;
+           }
+.img-responsive{
+  max-height:  400px;
+  max-width:500px;
+}
+
+           .our-process{
+             color: black;
+             text-align: center;
+             font-size: 16px;
+             font-weight: bold;
+             background-color:white;
+             padding: 20px;
+           }
+
+
+           .card-deck{
+             margin: 20px auto;
+             max-width: 1200px;
+
+           }
+           .card-img-top{
+             width: 200px;
+             height: 200px;
+             border-radius: 50%;
+             margin: 0 auto;
+           }
+           .card{
+              border: none;
+
+             outline: none;
+           }
+           .card-title{
+             text-align: center;
+           }
+           .footer{
+             height: 200px;
+             width: 100%;
+             text-align: center;
+             background-color: black;
+             color: white;
+           }
+           @media screen and (max-width: 480px)
+           {
+             .imaga1 
+            {
+               width:100% !important;
+               height: 350px !important;
+             }
+             .img-responsive{
+                width:100% !important;
+               height: 350px !important;
+               
+             }
+           }
+           .large-screen-image
+           {
+                width:100% !important;
+               height:auto !important;
+           }

@@ -1,0 +1,34 @@
+/*
+.navbar{
+          
+
+          background-color: #047069;
+          text-align: center;
+          font-size: 30px;
+          color: white;
+           font-weight: bold;
+
+     
+      
+    }
+*/
+    .mark {
+            background-color: #047069;
+            color: white;
+            text-align: center;
+            margin: 0 auto;
+            font-size: 25px;
+    }
+    .mark:hover{
+            text-decoration: none;
+            color: white;
+  
+    }
+    .form{
+            margin: 120px auto;
+    }
+    .btn{
+            background-color: #047069;
+            color: white;
+    }
+        

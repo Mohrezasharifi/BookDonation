@@ -1,0 +1,52 @@
+  body{
+      background-image:url(bglog.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      overflow: hidden;
+
+
+    }
+    #container{
+      max-width:400px;
+      max-height: 600px;
+      padding-bottom: 50px;
+      margin: 70px auto;
+
+    }
+
+    #header
+    {
+      position: relative;
+      top: -60px;
+      background-color: #047069;
+
+    }
+.valid
+{
+    border: 1.3px solid red;
+    outline: 0px;
+}
+.invalid
+{
+    border: 1.3px solid green;
+    outline: 0px;
+}
+.invalidEmail
+{
+    color: orange;
+    display: block;
+}
+.validEmail
+{
+    display: none;
+}
+.invalidPwd
+{
+    color: orange;
+    display: block;
+}
+.validPwd
+{
+    display: none;
+}
+   
